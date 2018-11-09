@@ -34,7 +34,7 @@ int main()
 	bubbleSort(arr, length);
 	clock_t end = clock();
 	double time = (double)(end - begin) / CLOCKS_PER_SEC;
-	printf("Время выполнения программы: %f\n секунд", time);
+	printf("Время выполнения программы: %f секунд\n", time);
 
 	FILE *sorted = fopen("sorted.txt", "w");
 	for (int i = 0; i < length; i++)
