@@ -21,5 +21,16 @@ All data is approximate and may vary on different devices.
 |100 000     |44.498991  |
 |1 000 000   |5174.553810|
 
+### Search
+
+|Amount items|Linear search (unsorted)|Linear search (sorted)|
+|-----------:|-----------------------:|---------------------:|
+|10          |0.0000988               |0.0000044             |
+|100         |0.0000940               |0.0000058             |
+|1 000       |0.0001172               |0.0000096             |
+|10 000      |0.0001114               |0.0000468             |
+|100 000     |0.0002586               |0.0001940             |
+|1 000 000   |0.0016522               |0.0014252             |
+
 ## License
 GNU General Public License v3.0
