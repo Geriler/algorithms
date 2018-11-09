@@ -1,6 +1,14 @@
 # algorithms
+
 ## About repository
-Implementation basic algorithms in C language
+Implementation basic algorithms in C language.<br>
+All data is approximate and may vary on different devices.
+
+## Used equipment
+* CPU: AMD A12 9720P 2700 MHz
+* GPU: AMD Radeon 530 2 Gb
+* RAM: 12 Gb 2133 MHz
+
 ## Program runtime counting (seconds)
 ### Sort
 
